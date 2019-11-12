@@ -161,7 +161,7 @@ git checkout v1.4.0
 sudo reboot now
 ```
 
-To update the local build of Companion v2.0 (alpha), run the following sequence of commands:
+To update the local build of Companion v2.0 (alpha), run the following sequence of commands from the directory /home/pi/companion:
 ```bash
 git pull
 yarn update
